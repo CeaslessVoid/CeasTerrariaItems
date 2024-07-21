@@ -1,0 +1,815 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	HSword: {
+		DisplayName: H Sword
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	DoranBlade: {
+		Tooltip:
+			'''
+			Increases Ranged and Melee Damage by 5%
+			Increases Max Health by 20
+			'''
+		DisplayName: Doran's Blade
+	}
+
+	DoranShield: {
+		Tooltip:
+			'''
+			Increases Max Health by 20
+			Increases Defense by 2
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Upon taking damage: Restore 10 health over 5 seconds]
+			[c/FF9F33: (15 seconds cooldown)]
+			'''
+		DisplayName: Doran Shield
+	}
+
+	DoranRing: {
+		Tooltip:
+			'''
+			Increases Max Health by 10
+			Increases Magic Damage by 5%
+			Increases Minion Damage by 1
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Regenerate 1 mana every second]
+			'''
+		DisplayName: Doran Ring
+	}
+
+	Cull: {
+		DisplayName: Cull
+		Tooltip:
+			'''
+			Increases Damage by 5%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Hit: Enemies drop more coins on death]
+			'''
+	}
+
+	DarkSeal: {
+		DisplayName: Dark Seal
+		Tooltip:
+			'''
+			Increases Damage by 5%
+			Increases Max Health by 10
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Hit: Gain 1 Dark Seal stack]
+			[c/FF9F33: Each stack increases Damage by 1%, Getting Hit resets stacks]
+			[c/FF9F33: (Max 10 stacks)]
+			'''
+	}
+
+	Tear: {
+		DisplayName: Tear of the Goddess
+		Tooltip:
+			'''
+			Increases Max Mana by 50
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Hit: Gain 1 Tear stack]
+			[c/FF9F33: Each stack increases Max Mana by 2]
+			[c/FF9F33: (Max 50 stacks)]
+			'''
+	}
+
+	AmpTome: {
+		DisplayName: Amplifying Tome
+		Tooltip:
+			'''
+			Increases Magic Damage by 7%
+			Increases Minion Damage by 1
+			Increases Max Minions by 1
+			'''
+	}
+
+	BFS: {
+		DisplayName: B. F. Sword
+		Tooltip: Increases Ranged and Melee Damage by 14%
+	}
+
+	BlastingWand: {
+		DisplayName: Blasting Wand
+		Tooltip: Increases Magic and Summon Damage by 9%
+	}
+
+	Cloak: {
+		DisplayName: Cloak of Agility
+		Tooltip: Increases Crit Chance by 7%
+	}
+
+	Cloth: {
+		DisplayName: Cloth Armor
+		Tooltip: Increases Defense by 5
+	}
+
+	Dagger: {
+		DisplayName: Dagger
+		Tooltip: Increases Attack speed by 7%
+	}
+
+	Charm: {
+		DisplayName: Faerie Charm
+		Tooltip: Increases Mana Regen by 50%
+	}
+
+	LongSword: {
+		DisplayName: Long Sword
+		Tooltip: Increases Ranged and Melee Damage by 7%
+	}
+
+	Needless: {
+		DisplayName: Needlessly Large Rod
+		Tooltip:
+			'''
+			Increases Magic and Summon Damage by 20%
+			Increases Minion Damage by 3
+			'''
+	}
+
+	Mantle: {
+		DisplayName: Null-Magic Mantle
+		Tooltip: Increases Damage Reuction by 4%
+	}
+
+	Picaxe: {
+		DisplayName: Picaxe
+		Tooltip: Increases Ranged and Melee Damage by 10%
+	}
+
+	Reju: {
+		DisplayName: Rejuvenation Bead
+		Tooltip:
+			'''
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Regenerate 1 Health every second]
+			'''
+	}
+
+	RubyCR: {
+		DisplayName: Ruby Crystal
+		Tooltip: Increases Max Health by 65
+	}
+
+	SaphireCR: {
+		DisplayName: Sapphire Crystal
+		Tooltip: Increases Max Mana by 100
+	}
+
+	AetherW: {
+		DisplayName: Aether Wisp
+		Tooltip:
+			'''
+			Increases Magic and Minion Damage by 11%
+			Increases Minion Damage by 2
+			Increases Max Minions by 3
+			Increases Movement Speed by 10%
+			'''
+	}
+
+	Bami: {
+		DisplayName: Bami's Cinder
+		Tooltip:
+			'''
+			Increases Max Health by 110
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Immolate: Deal 5% of Max Health to nearby enemies]
+			[c/FF9F33: (5 second cooldown)]
+			'''
+	}
+
+	Bandleglass: {
+		DisplayName: Bandleglass Mirror
+		Tooltip:
+			'''
+			Increases Magic Damage by 4%
+			Increases Minion Damage by 12%
+			Increases Max Minions by 2
+			Increases Mana Regen by 75%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Magic or Minion Dammage: Restore 3 Mana]
+			'''
+	}
+
+	Blighting: {
+		DisplayName: Blighting
+		Tooltip:
+			'''
+			Increases Magic and Minion Damage by 16%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Magic and Minion Damage penetrates 15% of defense]
+			[c/FF9F33: (Additive with Accesories, Multiplicative with other Sources)]
+			'''
+	}
+
+	Bramble: {
+		DisplayName: Bramble Vest
+		Tooltip:
+			'''
+			Increases Defense by 9
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Being Hit: Deal 6 Damage to Attacker]
+			'''
+	}
+
+	Recurve: {
+		DisplayName: Recurve Bow
+		Tooltip:
+			'''
+			Tooltip: Increases Attack speed by 15%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Hit: Melee and Ranged Deal 20 Damage]
+			'''
+	}
+
+	Winged: {
+		DisplayName: Winged Moonplate
+		Tooltip:
+			'''
+			Increases Max Health by 125
+			Increases Movement Speed by 15%
+			'''
+	}
+
+	Phage: {
+		DisplayName: Phage
+		Tooltip:
+			'''
+			Increases Melee and Ranged Damage by 12%
+			Increases Max Health by 85
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Hit (Melee Only): Increase Health Regen by 20%]
+			'''
+	}
+
+	Verdant: {
+		DisplayName: Verdant Barrier
+		Tooltip:
+			'''
+			Increases Magic and Minion Damage by 12%
+			Increases Damage Reduction by 5%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Gain a 50% Damage Reduction Barrier that last for 3 seconds after being hit]
+			[c/FF9F33: (60 seconds cooldown)]
+			'''
+	}
+
+	Crystalline: {
+		DisplayName: Crystalline Bracer
+		Tooltip:
+			'''
+			Increases Max Health by 85
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Regenerate 1.5 Health every second]
+			'''
+	}
+
+	Sheen: {
+		DisplayName: Sheen
+		Tooltip:
+			'''
+			Increases Ranged Damage by 12%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Hit: Spend 7% of Max Mana in increase Damage by 10%]
+			'''
+	}
+
+	Glacial: {
+		DisplayName: Glacial Buckler
+		Tooltip:
+			'''
+			Increases Max Mana by 150
+			Increases Defense by 6
+			'''
+	}
+
+	LostChapter: {
+		DisplayName: Lost Chapter
+		Tooltip:
+			'''
+			Increases Max Mana by 150
+			Increases Magic and Summon Damage by 16%
+			Increases Max Minions by 1
+			'''
+	}
+
+	NoonQuiver: {
+		DisplayName: Noon Quiver
+		Tooltip:
+			'''
+			Increases Ranged Damage by 12%
+			Increases Arrow Damage by 6%
+			Increases Ranged Crit Change by 10%
+			'''
+	}
+
+	ChainVest: {
+		DisplayName: Chain Vest
+		Tooltip: Increases Defense by 9
+	}
+
+	GaintBelt: {
+		Tooltip: Increases Max Health by 150
+		DisplayName: Gaints Belt
+	}
+
+	Fiendish: {
+		DisplayName: Fiendish Codex
+		Tooltip:
+			'''
+			Increases Magic Damage by 12%
+			Increases Base Summon Damage by 4
+			Increases Max Minion by 1
+			'''
+	}
+
+	Zeal: {
+		DisplayName: Zeal
+		Tooltip:
+			'''
+			Increases Crit Chance by 15%
+			Increases Attack Speed by 12%
+			Increases Melee and Ranged Damage by 7%
+			'''
+	}
+
+	SeekerArmGuard: {
+		DisplayName: Seekers Arm Guard
+		Tooltip:
+			'''
+			Increases Armour by 8
+			Increases Magic and Minion Damage by 12%
+			[c/FF9F33: (Active)]
+			[c/FF9F33: Enter Statis for 3 seconds (Unable to take damage or do actions)]
+			[c/FF9F33: (60 Seconds Cooldown)]
+			'''
+	}
+
+	Spectre: {
+		DisplayName: Spectre's Cowl
+		Tooltip:
+			'''
+			Increases Max Health by 85
+			Increases Damage Reduction by 6%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Regenerate 1 Health every second]
+			'''
+	}
+
+	Forbidden: {
+		DisplayName: Forbidden Idol
+		Tooltip: Increases Mana Regen by 100%
+	}
+
+	Dirk: {
+		DisplayName: Serrated Dirk
+		Tooltip:
+			'''
+			Increases Melee and Ranged Damage by 12%
+			Increases Melee and Ranged Armor Penetration by 20
+			'''
+	}
+
+	DemonicEmbrace: {
+		DisplayName: Demonic Embrace
+		Tooltip:
+			'''
+			Increases Magic and Minion Damage by 20%
+			Increases Max Health by 120
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Azakana Gaze: Dealing Magic or Minion Damage to enemies burns them for 5% of their max health every second]
+			[c/FF9F33: (Max 500 Damage, Duration 60 seconds)]
+
+			'''
+	}
+
+	GuardianAngel: {
+		DisplayName: Guardian Angel
+		Tooltip:
+			'''
+			Increases Melee and Ranged Damage by 17%
+			Increases Armour by 12
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Rebirth: Upon Lethal Hit, Restore 50% Max Health and 100% Mana, and become Invincable for 3 seconds]
+			[c/FF9F33: (3 minutes cooldown)]
+			'''
+	}
+
+	NegatronCloak: {
+		DisplayName: Negatron Cloak
+		Tooltip: Increases Damage Reduction by 8%
+	}
+
+	SpiritVisage: {
+		DisplayName: Spirit Visage
+		Tooltip:
+			'''
+			Increases Max Health by 200
+			Increases Damage Reduction by 9%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Regenerate 2 Health every second]
+			[c/FF9F33: Boundless Vitality: All Allies gain 1/2 of your Health Regeneration]
+			'''
+	}
+
+	PhantomDancer: {
+		DisplayName: Phantom Dancer
+		Tooltip:
+			'''
+			Increases Ramged Damage by 14%
+			Increases Melee Damage by 9%
+			Increases Crit Chance by 25%
+			Increases Attack Speed by 17%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Spectral Waltz: All Projectiles gain +3 Penetration]
+			'''
+	}
+
+	SeraphEmbrace: {
+		DisplayName: Seraph's Embrace
+		Tooltip:
+			'''
+			Increases Magic and Minion Damage by 20%
+			Increases Max Mana by 250
+			Increases Max Minion by 2
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Hit: Gain 1 Tear stack]
+			[c/FF9F33: Each stack increases Max Mana by 2]
+			[c/FF9F33: (Max 50 stacks)]
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Awe: Multiplies Final Damage by 0.1% of Max Mana]
+			'''
+	}
+
+	RapidFireCannon: {
+		DisplayName: Rapid FireCannon
+		Tooltip:
+			'''
+			Increases Melee and Range Damage by 7%
+			Increases Attack Speed by 20%
+			Increases Crit Chance by 25%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Sharpshooter: 50% chance not to consume ammo]
+			'''
+	}
+
+	SunfireAegis: {
+		DisplayName: Sunfire Aegis
+		Tooltip:
+			'''
+			Increases Max Health by 175
+			Increases Defense by 12
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Immolate: Deal 150% of Max Health to nearby enemies]
+			[c/FF9F33: (5 second cooldown)]
+			'''
+	}
+
+	BlackCleaver: {
+		DisplayName: Black Cleaver
+		Tooltip:
+			'''
+			Increases Melee and Ranged Damage by 15%
+			Increases Max Health by 125
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Carve: Attacks applies a debuf that halves enemy armor]
+			'''
+	}
+
+	InfiniteFlightMountItem: {
+		DisplayName: Infinite Flight Mount Item
+		Tooltip: ""
+	}
+
+	ZekeCovergence: {
+		DisplayName: Zeke Covergence
+		Tooltip:
+			'''
+			Increases Max Health by 100
+			Increases Defense by 5
+			Increases Damage reduction by 5%
+			Increases Max Minion by 3
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Frostfire Tempest: Minions applies 'On Fire' and 'Frostburn']
+			'''
+	}
+
+	FrozenHeart: {
+		DisplayName: Frozen Heart
+		Tooltip:
+			'''
+			Increases Max Mana by 250
+			Increases Defense by 8
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Winter's Carres: When hit, applies 'Slow' to the attacker]
+			'''
+	}
+
+	ThornMail: {
+		Tooltip:
+			'''
+			Increases Defense by 12
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Torns: On Being Hit, deal (6 + Defense times 3) Damage to Attacker]
+			'''
+		DisplayName: Thorn Mail
+	}
+
+	MikaelBlessing: {
+		DisplayName: Mikael's Blessing
+		Tooltip:
+			'''
+			Increases Max Minions by 2
+			Increases Mana Regen by 125%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Magic or Minion Dammage: Restore 3 Mana]
+			'''
+	}
+
+	DeathDance: {
+		DisplayName: Death's Dance
+		Tooltip:
+			'''
+			Increases Melee and Ranged Damage by 25%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Defy: On being hit: Take damage equals to 35% of Max Health instead of the normal damage amount]
+			[c/FF9F33: If you take 4 hits within 10 seconds, immediately die]
+			[c/FF9F33: (Damage Bypasses all Armor and Damage Resist effects, Does not work against Empress of Light Daytime Form)]
+			'''
+	}
+
+	NashorTooth: {
+		Tooltip:
+			'''
+			Increases Magic and Summon Damage by 15%
+			Increases Attack Speed by 18%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Icathian Bite: On hit Deals 20% of Max Mana as Damage]
+			'''
+		DisplayName: Nashor's Tooth
+	}
+
+	DuskbladeOfDraktharr: {
+		Tooltip:
+			'''
+			Increases Ranged Damage by 20%
+			Increases Melee Damage by 15%
+			Increases Ranged and Melee Armor Penetration by 55
+			'''
+		DisplayName: Duskblade Of Draktharr
+	}
+
+	Eclipse: {
+		Tooltip:
+			'''
+			Increases Melee and Ranged Damage by 15%
+			Increases Ranged and Melee Armor Penetration by 25
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Ever Rising Moon: On hit Deals 0.1% of target Max Health as Damage]
+			[c/FF9F33: (Capped at 1000)]
+			'''
+		DisplayName: Eclipse
+	}
+
+	LudenEcho: {
+		DisplayName: Luden Echo
+		Tooltip:
+			'''
+			Increases Magic and Minion Damage by 20%
+			Increases Max Mana by 300
+			Increases Max Minion by 2
+			'''
+	}
+
+	EdgeOfNight: {
+		DisplayName: Edge Of Night
+		Tooltip:
+			'''
+			Increases Melee and Ranged Damage by 15%
+			Increases Ranged and Melee Armor Penetration by 20
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Gain a 50% Damage Reduction Barrier that last for 3 seconds after being hit]
+			[c/FF9F33: (60 seconds cooldown)]
+			'''
+	}
+
+	InfinityEdge: {
+		DisplayName: Infinity Edge
+		Tooltip:
+			'''
+			Increases Ranged Damage by 25%
+			Increases Melee Damage by 15%
+			Increases Crit Chance by 25%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Wrath's Defiance: Increases Critical Hit Damage by 50%]
+			'''
+	}
+
+	WinterApproach: {
+		DisplayName: Winter's Approach
+		Tooltip:
+			'''
+			Increases Max Health by 200
+			Increases Max Mana by 50
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Hit: Gain 1 Tear stack]
+			[c/FF9F33: Each stack increases Max Mana by 2]
+			[c/FF9F33: (Max 50 stacks)]
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Manaflow: Gain Max Health Equal to 20% of Max Mana]
+			'''
+	}
+
+	ForceOfNature: {
+		DisplayName: Force Of Nature
+		Tooltip:
+			'''
+			Increases Max Health by 175
+			Increases Damage Reduction by 12%
+			Increases Movespeed by 15%
+			'''
+	}
+
+	Galeforce: {
+		DisplayName: Galeforce
+		Tooltip:
+			'''
+			Increases Melee and Ranged Damage by 10%
+			Increases Attack speed by 19%
+			Increases Crit Chance by 25%
+			[c/FF9F33: (Active)]
+			[c/FF9F33: Cloudburst: Dash towards the mouse, fires a homing projectile at nearest enemy dealing 50 damage]
+			[c/FF9F33: (Projectile scales with Ranged Damage)]
+			[c/FF9F33: (10 second cooldown)]
+			'''
+	}
+
+	Gargoyle: {
+		DisplayName: Gargoyle Stoneplate
+		Tooltip:
+			'''
+			Increases Defense by 12
+			Increases Damage Rduction by 10%
+			Increases Max Health by 100
+			'''
+	}
+
+	GuinsooRageblade: {
+		DisplayName: Guinsoo's Rageblade
+		Tooltip:
+			'''
+			Increases Damage by 10%
+			Increases Attack speed by 20%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: On Hit: Melee and Ranged Deal 20 Damage]
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Seething Strike: On hit gain 5% Attack speed, up to 35%]
+			[c/FF9F33: (Resets after 5 seconds)]
+			'''
+	}
+
+	VoidStaff: {
+		DisplayName: Void Staff
+		Tooltip:
+			'''
+			Increases Magic and Minion Damage by 20%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Night's Bloom: Magic and Minion Damage penetrates 45% of defense]
+			[c/FF9F33: (Additive with Accesories, Multiplicative with other Sources)]
+			'''
+	}
+
+	LichBane: {
+		DisplayName: Lich Bane
+		Tooltip:
+			'''
+			Increases Damage by 18%
+			Increases Move Speed by 10%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Spellblade: Consume all mana to bost MULTIPLY final damage by 2% of mana consumed]
+			'''
+	}
+
+	KnightVow: {
+		DisplayName: Knight's Vow
+		Tooltip:
+			'''
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Pledge: Cerula pledges her eternity to you, binding her soul with yours]
+			[c/FF9F33: Automaticly attacks nearby enemies in an AOE, dealing summoner class damage and inflicting 'Frostburn' and reducing their armor by 50%]
+			[c/FF9F33: (Damage scales with you defence, AOE scales with max minions)]
+			'''
+	}
+
+	LordDominikRegards: {
+		DisplayName: Lord Dominik Regards
+		Tooltip:
+			'''
+			Increases Ranged Damage by 15%
+			Increases Arrow Damage by 10%
+			Increases Ranged Crit Chance by 25%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Fatality: Ranged Damage penetrates 45% of defense]
+			[c/FF9F33: (Additive with Accesories, Multiplicative with other Sources)]
+			'''
+	}
+
+	BansheeVeil: {
+		DisplayName: Banshee's Veil
+		Tooltip:
+			'''
+			Increases Magic and Minion Damage by 20%
+			Increases Damage Reduction by 10%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Annul: Gain a 50% Damage Reduction Barrier that last for 3 seconds after being hit]
+			[c/FF9F33: (60 seconds cooldown)]
+			'''
+	}
+
+	Redemption: {
+		DisplayName: Redemption
+		Tooltip:
+			'''
+			Increases Max Health by 150
+			Increases Mana Regeneration by 150%
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Intervention: Heal yourself and all allies 5% of their missing health]
+			[c/FF9F33: (5 seconds cooldown)]
+			'''
+	}
+
+	RabadonDeathcap: {
+		DisplayName: Rabadon Deathcap
+		Tooltip:
+			'''
+			Increases Magic and Summon Damage by 25%
+			Increases Base Summon Damage by 10
+			[c/FF9F33: (Passive)]
+			[c/FF9F33: Magnum Opus: Multiply Magic and Summon Damage by 1.5]
+			'''
+	}
+}
+
+Buffs: {
+	VerdantNotReady: {
+		DisplayName: Damage Reduction Barrier Not Ready
+		Description: Damage Reduction Barrier is recharging
+	}
+
+	VerdantReady: {
+		DisplayName: Damage Reduction Barrier Ready
+		Description: Next hit is reduced by 50% and for 3 seconds
+	}
+
+	SeekersBuff: {
+		DisplayName: Stopwatch Cooldown
+		Description: Stopwatch Item on Cooldown
+	}
+
+	DemonicDebuff: {
+		DisplayName: Azakan's Gaze
+		Description: You feel it crawl under your flesh
+	}
+
+	GuardianAngelBuff: {
+		DisplayName: Guardian Angel Cooldown
+		Description: Guardian Angel on Cooldown
+	}
+
+	InfiniteFlightMountBuff: {
+		DisplayName: Infinite Flight Mount Buff
+		Description: Mods.HieuLeague.Buffs.InfiniteFlightMountBuff.Description
+	}
+
+	Cleaved: {
+		DisplayName: Cleaved
+		Description: Armor is halved
+	}
+
+	GaleforceCD: {
+		DisplayName: Galeforce Cooldown
+		Description: Galeforce is on cooldown
+	}
+
+	KnightVowBuff: {
+		DisplayName: Cerula's Vow
+		Description: A soul binding vow
+	}
+}
+
+Keybinds: {
+	"Activate Seeker's Armguard.DisplayName": Activate  Seeker's  Armguard
+	"Activate Seeker's Armguard or Zhoynya.DisplayName": Activate  Seeker's  Armguard or  Zhoynya
+	"Activate Galeforce Dash.DisplayName": Activate  Galeforce  Dash
+}
+
+Projectiles: {
+	GaleforceProjectile.DisplayName: Galeforce Projectile
+	Cerula.DisplayName: Cerula
+}

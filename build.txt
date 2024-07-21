@@ -1,0 +1,3 @@
+displayName = Neava's LoL Items
+author = Neava
+version = 0.3

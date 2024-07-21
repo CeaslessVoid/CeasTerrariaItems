@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|c:\\users\\neava\\documents\\my games\\terraria\\tmodloader\\modsources\\hieuleague\\common\\players\\hieuplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|solutionrelative:common\\players\\hieuplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|c:\\users\\neava\\documents\\my games\\terraria\\tmodloader\\modsources\\hieuleague\\content\\items\\accessories\\galeforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|solutionrelative:content\\items\\accessories\\galeforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|c:\\users\\neava\\documents\\my games\\terraria\\tmodloader\\modsources\\hieuleague\\localization\\en-us_mods.hieuleague.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|solutionrelative:localization\\en-us_mods.hieuleague.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|c:\\users\\neava\\documents\\my games\\terraria\\tmodloader\\modsources\\hieuleague\\hieuleague.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|solutionrelative:hieuleague.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|c:\\users\\neava\\documents\\my games\\terraria\\tmodloader\\modsources\\hieuleague\\content\\items\\accessories\\rabadondeathcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|solutionrelative:content\\items\\accessories\\rabadondeathcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|c:\\users\\neava\\documents\\my games\\terraria\\tmodloader\\modsources\\hieuleague\\hieuleague.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|solutionrelative:hieuleague.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|c:\\users\\neava\\documents\\my games\\terraria\\tmodloader\\modsources\\hieuleague\\content\\items\\accessories\\redemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF46235-ECD4-4949-A275-2DC09C9FDB9D}|HieuLeague.csproj|solutionrelative:content\\items\\accessories\\redemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "en-US_Mods.HieuLeague.hjson",
+              "DocumentMoniker": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\Localization\\en-US_Mods.HieuLeague.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US_Mods.HieuLeague.hjson",
+              "ToolTip": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\Localization\\en-US_Mods.HieuLeague.hjson",
+              "RelativeToolTip": "Localization\\en-US_Mods.HieuLeague.hjson",
+              "ViewState": "AQIAAOwCAAAAAAAAAAAAAPECAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-04T08:05:57.436Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HieuPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\Common\\Players\\HieuPlayer.cs",
+              "RelativeDocumentMoniker": "Common\\Players\\HieuPlayer.cs",
+              "ToolTip": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\Common\\Players\\HieuPlayer.cs",
+              "RelativeToolTip": "Common\\Players\\HieuPlayer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAGYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:00:23.288Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HieuLeague.csproj",
+              "DocumentMoniker": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\HieuLeague.csproj",
+              "RelativeDocumentMoniker": "HieuLeague.csproj",
+              "ToolTip": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\HieuLeague.csproj",
+              "RelativeToolTip": "HieuLeague.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T11:15:30.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Galeforce.cs",
+              "DocumentMoniker": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\Content\\Items\\Accessories\\Galeforce.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Accessories\\Galeforce.cs",
+              "ToolTip": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\Content\\Items\\Accessories\\Galeforce.cs",
+              "RelativeToolTip": "Content\\Items\\Accessories\\Galeforce.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:34:16.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HieuLeague.cs",
+              "DocumentMoniker": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\HieuLeague.cs",
+              "RelativeDocumentMoniker": "HieuLeague.cs",
+              "ToolTip": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\HieuLeague.cs",
+              "RelativeToolTip": "HieuLeague.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:58:16.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabadonDeathcap.cs",
+              "DocumentMoniker": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\Content\\Items\\Accessories\\RabadonDeathcap.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Accessories\\RabadonDeathcap.cs",
+              "ToolTip": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\Content\\Items\\Accessories\\RabadonDeathcap.cs",
+              "RelativeToolTip": "Content\\Items\\Accessories\\RabadonDeathcap.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:27:40.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Redemption.cs",
+              "DocumentMoniker": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\Content\\Items\\Accessories\\Redemption.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Accessories\\Redemption.cs",
+              "ToolTip": "C:\\Users\\Neava\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HieuLeague\\Content\\Items\\Accessories\\Redemption.cs",
+              "RelativeToolTip": "Content\\Items\\Accessories\\Redemption.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:52:28.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
