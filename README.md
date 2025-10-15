@@ -1,4 +1,5 @@
 <img width="1202" height="620" alt="Screenshot 2025-10-15 131639" src="https://github.com/user-attachments/assets/1dfce1c3-0611-4ddd-ae4d-1bf9020dacde" />
+
 # League of Legends Items [Stopped Updating]
 
 Adds League of Legends items into Terraria. Updated till season 14. Check out the discord: https://discord.gg/3aNR4mg
